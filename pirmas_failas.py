@@ -1,0 +1,1 @@
+print("pirmo failo pirmas printas")
